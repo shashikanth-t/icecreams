@@ -1,2 +1,4 @@
   =>  Template Name    : iCREAM - Ice Cream Shop Website Template
 
+welcome to sample website
+
